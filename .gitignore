@@ -2,6 +2,11 @@
 Assembly-CSharp-firstpass.csproj
 Assembly-CSharp-Editor-firstpass.csproj
 Library/
-Packages/
-ProjectSettings/
 Temp/
+/.vsconfig
+/Assembly-CSharp-Editor-firstpass.csproj
+/Assembly-CSharp-firstpass.csproj
+/Library
+/Logs
+/Temp
+/UserSettings
